@@ -1,0 +1,10 @@
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\bin\Debug\ElektronikSoyAğacı.exe.config
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\bin\Debug\ElektronikSoyAğacı.exe
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\bin\Debug\ElektronikSoyAğacı.pdb
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.Form1.resources
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.Properties.Resources.resources
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.csproj.GenerateResource.cache
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.csproj.CoreCompileInputs.cache
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.exe
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.pdb
+C:\Users\bedir\source\repos\ElektronikSoyAğacı\ElektronikSoyAğacı\obj\Debug\ElektronikSoyAğacı.csprojAssemblyReference.cache
